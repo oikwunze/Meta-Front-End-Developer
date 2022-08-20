@@ -4,8 +4,6 @@
 ## Table of Content
 - Course 1: [Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development?specialization=meta-front-end-developer)
   * Week 1: Get started with web development
-    1. examine_the_page
-    2. module_quiz
   * Week 2: Introduction to HTML and CSS
   * Week 3: UI Frameworks
   * Week 4: End-of-Course Graded Assessment
