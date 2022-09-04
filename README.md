@@ -18,37 +18,37 @@
   * Week 2: Command Line
   * Week 3: Working with Git
   * Week 4: Graded Assessment
-- Course 4: [HTML and CSS in depth](https://www.coursera.org/learn/html-and-css-in-depth?specialization=meta-front-end-developer)
+- Course 4: [HTML and CSS in depth](https://www.coursera.org/learn/html-and-css-in-depth?specialization=meta-front-end-developer)(Release Date: Sep 26th, 2022)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 5: [React Basics](https://www.coursera.org/learn/react-basics?specialization=meta-front-end-developer)
+- Course 5: [React Basics](https://www.coursera.org/learn/react-basics?specialization=meta-front-end-developer)(Release Date: Sep 26th, 2022)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 6: [Advanced React](https://www.coursera.org/learn/advanced-react?specialization=meta-front-end-developer)
+- Course 6: [Advanced React](https://www.coursera.org/learn/advanced-react?specialization=meta-front-end-developer)(Release Date: Nov 7th, 2022)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 7: [Principles of UI/UX Design](https://www.coursera.org/learn/principles-of-ui-ux-design?specialization=meta-front-end-developer)
+- Course 7: [Principles of UI/UX Design](https://www.coursera.org/learn/principles-of-ui-ux-design?specialization=meta-front-end-developer)(Release Date: Oct 31st, 2022)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 8: [Front-End Developer Capstone](https://www.coursera.org/learn/meta-front-end-developer-capstone?specialization=meta-front-end-developer)
+- Course 8: [Front-End Developer Capstone](https://www.coursera.org/learn/meta-front-end-developer-capstone?specialization=meta-front-end-developer)(Release Date: Dec 5th, 2022)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 9: [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-front-end-developer)
+- Course 9: [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-front-end-developer)(Release Date: Dec 12nd, 2022)
   * Week 1: 
   * Week 2: 
   * Week 3: 
