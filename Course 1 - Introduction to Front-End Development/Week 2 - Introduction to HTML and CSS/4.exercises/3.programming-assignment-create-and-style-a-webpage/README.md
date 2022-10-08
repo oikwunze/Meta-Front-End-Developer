@@ -103,3 +103,7 @@ You can also see your score in your Programming Assignment "My Submission" tab.
 * Use a different heading type for your name.
 * Remember the box model.
 * Review the lessons *Creating a HTML document*, *Adding Images*, *Selecting and Styling*, and *Different types of selectors*.
+
+## Final Result
+
+<img src="./result.png" width=500>

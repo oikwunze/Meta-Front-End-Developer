@@ -48,7 +48,7 @@ Change the text of Our Menu to Little Lemon Menu.
 
 - __Step 2:__ Right-click the `Our Menu` text and select `Inspect` (or `Inspect Element`)
   
-  <img src="readme-images/pic5.jpeg" width=500>
+  <img src="readme-images/pic5.png" width=500>
 
 - __Step 3:__ Double-click the `Our Menu` text in the Elements tab of the developer tools panel.
 

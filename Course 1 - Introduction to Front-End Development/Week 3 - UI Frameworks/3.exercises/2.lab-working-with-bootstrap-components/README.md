@@ -77,3 +77,7 @@ __Step 18:__ Save the file.
 - Remember that Bootstrap uses a 12 column grid system.
 - There are plenty of examples in the Bootstrap documentation.
 - Review the lessons _Using Bootstrap Styles_ and _Bootstrap Components_.
+
+## Final Result
+
+<img src="./result.png" width=500>

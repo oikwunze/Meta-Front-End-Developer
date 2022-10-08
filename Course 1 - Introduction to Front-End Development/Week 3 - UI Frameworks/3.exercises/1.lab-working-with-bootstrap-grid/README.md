@@ -240,3 +240,7 @@ __Step 16:__ Add the following elements In the second col-12 col-lg-6 element:
 ```
 
 __Step 17:__ Save the file.
+
+## Final Result
+
+<img src="./result.png" width=500>

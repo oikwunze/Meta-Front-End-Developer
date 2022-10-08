@@ -57,3 +57,7 @@ You can also see your score in your Programming Assignment "My Submission" tab.
 
 * If you get stuck, apply the CSS rules one at a time and verify their behaviour is what you expect.
 * Review the lessons *Selecting and Styling*, *Text and color in CSS*, *Different types of selectors*, and *Box Model Introducction*.
+
+## Final Result
+
+<img src="./result.png" width=500>

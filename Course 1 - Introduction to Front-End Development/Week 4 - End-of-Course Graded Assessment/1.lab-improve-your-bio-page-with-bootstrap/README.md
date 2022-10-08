@@ -395,5 +395,7 @@ __Step 22:__ Apply the primary modifier to the button component.
 ```
 
 __Step 23:__ Save the file.
-```
-```
+
+## Final Result
+
+<img src="./result.png" width=500>
