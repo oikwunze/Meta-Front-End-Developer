@@ -1,0 +1,36 @@
+.parent {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+}
+
+.segment {
+    display: grid;
+    place-items: center;
+    text-align: center;
+    grid-template-rows: 100px;
+}
+
+.twelve {
+    background-color: lightseagreen;
+    grid-column: 1/ span 12; /* Start from the 1st colum across 12 columns */
+}
+
+.eight {
+    background-color: bisque;
+    grid-column: 5/ span 8; /* Start from the 5th column across 8 columns */
+}
+
+.four {
+    background-color: lightblue;
+    grid-column: 1/ span 4; /* Start from the 1st column across 4 columns */
+}
+
+.six {
+    background-color: lightsteelblue;
+    grid-column: 5/ span 6; /* Start from the 5th column across 6 columns */
+}
+
+.seven {
+    background-color: lightcoral;
+    grid-column: 3/ span 7; /* Start from the 3rd column across 7 columns */
+}
