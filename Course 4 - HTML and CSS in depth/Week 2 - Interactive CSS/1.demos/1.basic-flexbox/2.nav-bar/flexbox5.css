@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #2b2d42;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: stretch;
+}
+
+.container li {
+    list-style-type: none;
+}
+
+.container a {
+    display: inline-block;
+    padding: 25px;
+    margin: 0 25px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+}
+
