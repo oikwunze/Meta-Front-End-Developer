@@ -1,0 +1,33 @@
+.row {
+    display: flex;
+    align-items: stretch;
+}
+
+.row .label {
+    flex: 0 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.row .container {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.row .dish {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pasta {
+    background-color: #EE9972;
+}
+
+.pizza {
+    background-color: #F4CE14;
+}
+
+.burrito {
+    background-color: #495E57;
+}

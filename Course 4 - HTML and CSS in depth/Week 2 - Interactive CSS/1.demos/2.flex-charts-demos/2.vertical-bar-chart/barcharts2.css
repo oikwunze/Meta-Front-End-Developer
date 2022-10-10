@@ -1,0 +1,22 @@
+.column {
+    display: flex;
+    height: 400px;
+    max-width: 300px;
+    align-items: stretch;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-end;
+}
+
+.bar {
+    border-right: 1px solid white;
+}
+
+.female { background: #F4CE14; }
+.male { background: #495E57; }
