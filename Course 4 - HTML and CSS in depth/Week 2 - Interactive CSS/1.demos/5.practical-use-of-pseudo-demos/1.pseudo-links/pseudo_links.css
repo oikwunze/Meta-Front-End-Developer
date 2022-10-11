@@ -1,0 +1,25 @@
+* {
+    font-family: cursive;
+    background-color: #E0E0E2;
+}
+
+/* Links by default */
+a:link {
+    color: blue;
+}
+
+/* Links already visited */
+a:visited {
+    color: blueviolet;
+}
+
+/* When hovering over the link with mouse */
+a:hover {
+    color: green;
+}
+
+/* When link is selected */
+a:active {
+    color: white;
+    background-color: black;
+}
