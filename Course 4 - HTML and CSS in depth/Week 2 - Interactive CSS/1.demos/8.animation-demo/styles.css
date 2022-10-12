@@ -1,0 +1,22 @@
+@keyframes bounce {
+
+    /* Starting state of the animation */
+    from {
+        transform: translate3d(0, 0, 0);
+    }
+
+    /* Ending state of the animation */
+    to {
+        transform: translate3d(640px, 0, 0);
+    }
+}
+
+#ball {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #62687F;
+    animation: bounce 2s linear;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+}
