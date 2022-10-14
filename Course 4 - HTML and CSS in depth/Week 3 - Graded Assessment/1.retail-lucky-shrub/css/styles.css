@@ -62,13 +62,17 @@ header {
 }
 
 .navbar li a:hover {
-    color: #749F82;
+    color: #749F82!important;
     text-shadow: 2px 2px 8px #C7F2A4;
 }
 
 .navbar li a:active {
     color: white;
     background-color: #26877f;
+}
+
+.navbar li a:visited {
+    color: black;
 }
 
 main {
