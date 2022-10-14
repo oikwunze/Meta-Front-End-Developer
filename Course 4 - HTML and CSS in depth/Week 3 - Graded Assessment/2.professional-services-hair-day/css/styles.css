@@ -1,0 +1,194 @@
+body {
+    background-color: #FFE6E6;
+    font-family: 'Markazi Text', serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+header {
+    background-color: #323232;
+    height: 5rem;
+    width: 100%;
+    text-align: right;
+    overflow: hidden;
+    position: fixed;
+    opacity: 1;
+    z-index: 1;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.navbar {
+    margin: 0 auto;
+    height: 100%;
+}
+
+.navbar img {
+    float: left;
+    height: 100%;
+    width: auto;
+    padding-left: 2rem;
+}
+
+.navbar ul {
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.navbar li {
+    list-style-type: none;
+    display: inline;
+    padding: 2rem;
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.navbar li a {
+    font-family: "Markazi Text", serif;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.navbar li a:link {
+    color: #D0604C;
+}
+
+.navbar li a:hover {
+    color: #FFFFFF!important;
+    text-shadow: 2px 2px 8px #C7F2A4;
+}
+
+.navbar li a:active {
+    color: #D0604C;
+    background-color: #7F8487;
+}
+
+.navbar li a:visited {
+    color: #D0604C;
+}
+
+main {
+    padding-top: 6rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+section {
+    display: flex;
+}
+
+article {
+    flex: 1;
+    padding: 1rem;
+    margin: 0.75rem;
+}
+
+footer {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer div {
+    background-color: #323232;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+footer img {
+    width: 8rem;
+    height: auto;
+}
+
+.section1 {
+    position: relative;
+    height: 10%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section1::before {
+    content: "";
+    background-image: url("../images/Artboard 22.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.7;
+    border-radius: 20px;
+    z-index: 0;
+}
+
+.section1 article h1, .section1 article p {
+    position: relative;
+    color: black;  
+    line-height: 0.9;
+    text-align: center;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.section1 article h1 {
+    margin-bottom: 0;
+    text-shadow: 5px 5px 8px #FFC2C2;
+}
+
+.section1 article p {
+    font-size: 23px;
+    text-shadow: 2px 2px 8px white;
+}
+
+.section2 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.section2 > article {
+    background-color: #D0604C;
+    border-radius: 20px;
+}
+
+article {
+    flex: 1;
+    border-radius: 1rem;
+    padding-bottom: 1.5rem;
+}
+
+article p + div {
+    display: flex;
+    flex: 1;
+    gap: 2rem 1rem;
+}
+
+article a:link {
+    color: #CDF0EA;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+article a:hover {
+    text-shadow: 2px 2px 8px #C7F2A4;
+    text-decoration: underline;
+}
+
+article a:active {
+    color: #CDF0EA;
+    background-color: #7F8487;
+}
