@@ -1,0 +1,173 @@
+body {
+    background-color: black;
+    font-family: 'Markazi Text', serif;
+    margin-top: 3rem;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+h2 {
+    font-size: 2.3rem;
+}
+
+p {
+    font-weight: 400;
+    font-size: 1.3rem;
+}
+
+header img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav {
+    background-color: #FDF6F0;
+    margin-top: 1rem;
+}
+
+nav ul {
+    list-style: none;
+    font-size: 2rem;
+    text-align: center;
+    padding-inline-start: 0rem;
+    margin-bottom: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+nav ul a {
+    color: black;
+    text-decoration: none;
+}
+
+nav ul a:active {
+    text-decoration: underline;
+}
+
+nav ul a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 0.1rem;
+}
+
+section {
+    display: flex;
+}
+
+section {
+    margin-bottom: 0;
+}
+
+section + footer {
+    margin-bottom: 1rem;
+}
+
+article {
+    flex: 1;
+    padding-bottom: 1.5rem;
+}
+
+article img {
+    max-width: 100%;
+}
+
+article ul {
+    list-style: none;
+    font-size: 1.3rem;
+}
+
+article a:link {
+    font-size: 1.3rem;
+    color: #E2C275;
+    text-decoration: none;
+}
+
+article a:hover {
+    color: #E2C275;
+    text-decoration: underline;
+}
+
+article a:active {
+    color: #EDEFEE;
+    background-color: black;
+}
+
+main article {
+    background-color: #FDF6F0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+#hero {
+    background-image: url("../assets/Asset 5.png");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-shadow: 2px 2px 8px white;
+    text-align: right;
+    height: 50rem;
+}
+
+#hero h1 {
+    font-weight: 600;
+    font-size: 80px;
+    background: rgba(0, 0, 0, 0.5);
+    padding-right: 0.5rem;
+    margin-bottom: 0;
+}
+
+#hero p {
+    max-width: 100%;
+    padding-right: 0.5rem;
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 0;
+    padding-bottom: 1rem;
+}
+
+footer {
+    margin: 1rem;
+    display: flex;
+    gap: 2rem 1rem;
+}
+
+footer img {
+    max-width: 50%;
+    margin-top: 1rem;
+}
+
+footer p {
+    border-top: white;
+    border-style: solid;
+    border-width: 0.1rem;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    text-align: right;
+    color: white;
+}
+
+footer div {
+    flex: 1;
+}
+
+.section2 {
+    background-color: #FDF6F0;
+}
+
+.section2 article {
+    border-style: solid;
+    border-color: #E2C275;
+    margin: 2rem;
+}
