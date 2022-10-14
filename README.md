@@ -21,14 +21,12 @@
   * Week 2: [Command Line](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%202%20-%20Command%20Line)
   * Week 3: [Working with Git](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%203%20-%20Working%20with%20Git)
   * Week 4: [Graded Assessment](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%204%20-%20Graded%20Assessment)
-- Course 4: [HTML and CSS in depth]()
-  * Week 1: 
-  * Week 2: 
-  * Week 3: 
-  * Week 4: 
-  * Week 5: 
-- Course 5: [React Basics]()
-  * Week 1: 
+- Course 4: [HTML and CSS in depth](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%204%20-%20HTML%20and%20CSS%20in%20depth)
+  * Week 1: [HTML in depth](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%204%20-%20HTML%20and%20CSS%20in%20depth/Week%201%20-%20HTML%20in%20depth)
+  * Week 2: [Interactive CSS](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%204%20-%20HTML%20and%20CSS%20in%20depth/Week%202%20-%20Interactive%20CSS)
+  * Week 3: [Graded Assessment](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%204%20-%20HTML%20and%20CSS%20in%20depth/Week%203%20-%20Graded%20Assessment)
+- Course 5: [React Basics](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics)
+  * Week 1: [React Components](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics/Week%201%20-%20React%20Components)
   * Week 2: 
   * Week 3: 
   * Week 4: 
